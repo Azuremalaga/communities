@@ -11,7 +11,7 @@
     "Url": "https://AzureMalaga.com",
     "SessionizeApiId": "qxkryrcl",
     "SessionizeEventName": "https://sessionize.com/global-azure-2025-malaga",
-    "Description_SessionizeApiId": null,
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/qxkryrcl/view/Sessions",
     "EventPage": "index.md",
     "SponsorsPage": "sponsors.md",
     "Logo": {
@@ -23,10 +23,10 @@
     },
     "Locations": [
       {
-        "Name": "Polo Digital ",
+        "Name": "Malaga, Spain ",
         "StartDate": "2025-05-10",
         "EndDate": "2025-05-10",
-        "Address": "Polo Digital Málaga",
+        "Address": "Málaga, Spain",
         "Latitude": 36.69879,
         "Longitude": -4.439285
       }
